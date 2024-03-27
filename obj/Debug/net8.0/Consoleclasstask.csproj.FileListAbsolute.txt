@@ -1,0 +1,15 @@
+C:\Users\subhi\source\repos\Consoleclasstask\bin\Debug\net8.0\Consoleclasstask.exe
+C:\Users\subhi\source\repos\Consoleclasstask\bin\Debug\net8.0\Consoleclasstask.deps.json
+C:\Users\subhi\source\repos\Consoleclasstask\bin\Debug\net8.0\Consoleclasstask.runtimeconfig.json
+C:\Users\subhi\source\repos\Consoleclasstask\bin\Debug\net8.0\Consoleclasstask.dll
+C:\Users\subhi\source\repos\Consoleclasstask\bin\Debug\net8.0\Consoleclasstask.pdb
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.AssemblyInfoInputs.cache
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.AssemblyInfo.cs
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.csproj.CoreCompileInputs.cache
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.dll
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\refint\Consoleclasstask.dll
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.pdb
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.genruntimeconfig.cache
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\ref\Consoleclasstask.dll
+C:\Users\subhi\source\repos\Consoleclasstask\obj\Debug\net8.0\Consoleclasstask.sourcelink.json
